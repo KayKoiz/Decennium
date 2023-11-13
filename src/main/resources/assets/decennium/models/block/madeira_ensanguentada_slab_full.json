@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "decennium:block/madeiraensanguentada_planks",
+    "top": "decennium:block/madeiraensanguentada_planks",
+    "side": "decennium:block/madeiraensanguentada_planks"
+  },
+  "render_type": "solid"
+}

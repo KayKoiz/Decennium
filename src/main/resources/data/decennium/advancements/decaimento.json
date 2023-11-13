@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "decaimento": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "decennium:deccenium_meat"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "decennium:deccenium_pickaxe_recipe",
+      "decennium:deccenium_axe_recipe",
+      "decennium:deccenium_sword_recipe",
+      "decennium:deccenium_shovel_recipe"
+    ]
+  }
+}

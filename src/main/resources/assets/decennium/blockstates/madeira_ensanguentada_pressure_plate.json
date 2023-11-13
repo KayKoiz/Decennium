@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "decennium:block/madeira_ensanguentada_pressure_plate"
+    },
+    "powered=true": {
+      "model": "decennium:block/madeira_ensanguentada_pressure_plate_down"
+    }
+  }
+}

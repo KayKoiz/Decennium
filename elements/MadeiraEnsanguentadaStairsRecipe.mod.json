@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "wooden_stairs",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MadeiraEnsanguentadaStairs"
+    },
+    "name": "madeira_ensanguentada_stairs_recipe",
+    "namespace": "mod"
+  }
+}

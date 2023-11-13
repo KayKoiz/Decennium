@@ -1,0 +1,32 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Pickaxe",
+    "renderType": 0,
+    "texture": "deccenium_pickscythe",
+    "customModelName": "Normal",
+    "name": "Deccenium Pickscyphe",
+    "specialInfo": [
+      "Parece ser feita de carne?!"
+    ],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "harvestLevel": 15,
+    "efficiency": 20.0,
+    "attackSpeed": 0.5,
+    "enchantability": 2,
+    "damageVsEntity": 66.6,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "Consumir"
+    }
+  }
+}

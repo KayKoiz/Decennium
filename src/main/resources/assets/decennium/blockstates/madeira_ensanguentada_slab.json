@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "decennium:block/madeira_ensanguentada_slab"
+    },
+    "type=top": {
+      "model": "decennium:block/madeira_ensanguentada_slab_top"
+    },
+    "type=double": {
+      "model": "decennium:block/madeira_ensanguentada_slab_full"
+    }
+  }
+}

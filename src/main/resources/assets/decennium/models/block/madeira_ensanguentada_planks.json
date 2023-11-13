@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "decennium:block/madeiraensanguentada_planks",
+    "particle": "decennium:block/madeiraensanguentada_planks"
+  },
+  "render_type": "solid"
+}

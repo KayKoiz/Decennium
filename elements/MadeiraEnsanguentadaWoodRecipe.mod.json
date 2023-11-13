@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaLog"
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaLog"
+      },
+      {
+        "value": "CUSTOM:MadeiraEnsanguentadaLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MadeiraEnsanguentadaWood"
+    },
+    "name": "madeira_ensanguentada_wood_recipe",
+    "namespace": "mod"
+  }
+}

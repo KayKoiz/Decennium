@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "decennium:block/madeiraensanguentada_log_top",
+    "up": "decennium:block/madeiraensanguentada_log_top",
+    "north": "decennium:block/madeiraensanguentada_log_side",
+    "east": "decennium:block/madeiraensanguentada_log_side",
+    "south": "decennium:block/madeiraensanguentada_log_side",
+    "west": "decennium:block/madeiraensanguentada_log_side",
+    "particle": "decennium:block/madeiraensanguentada_log_top"
+  },
+  "render_type": "solid"
+}

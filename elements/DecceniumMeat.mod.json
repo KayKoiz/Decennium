@@ -1,0 +1,49 @@
+{
+  "_fv": 47,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "decaimento_de_materia",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Deccenium Meat",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 6,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Carne Estranha"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "DecceniumMeatOnPlayerStoppedUsing"
+    },
+    "isFood": true,
+    "nutritionalValue": 114,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": true,
+    "animation": "eat"
+  }
+}

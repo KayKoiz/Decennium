@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "decennium:block/madeiraensanguentada_planks"
+  },
+  "render_type": "solid"
+}
